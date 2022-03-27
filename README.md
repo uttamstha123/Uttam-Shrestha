@@ -1,4 +1,6 @@
 ### Hi there 👋, My name is *Uttam Shrestha*
+![Github Profile Banner](https://github.com/uttamstha123/uttamstha/blob/main/github-banner.png)
+
 #### I am currently Frontend Developer and Web Designer
 I am from Chitwan, Nepal 🇳🇵.
 
